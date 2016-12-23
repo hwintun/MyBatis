@@ -29,7 +29,7 @@ body {
 				<input type="text" class="form-control" placeholder="Search">
 			</form>
 			<ul class="nav navbar-nav navbar-right">
-				<li class="active"><a href="#">Home</a></li>
+				<li class="active"><a href="#">Home Page</a></li>
 				<li><a href="signup.html">Signup</a></li>
 				<li><a href="login.html">Login</a></li>
 				<li class="dropdown"><a href="#" class="dropdown-toggle"
