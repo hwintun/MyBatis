@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <build>
+  	<finalName>${project.artifactId}</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
@@ -20,6 +21,7 @@
         <version>3.0.0</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
+          <warName>${project.artifactId}</warName>
         </configuration>
       </plugin>
     </plugins>
@@ -72,4 +74,5 @@
   		<version>4.2.6.RELEASE</version>
   	</dependency>
   </dependencies>
+  
 </project>
