@@ -14,4 +14,6 @@ http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-
 #sample project
 http://elizabetht.github.io/blog/2013/11/21/student-enrollment-using-mybatis-with-spring/
 
-test ttttt
+exitext
+
+testtest
